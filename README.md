@@ -1,27 +1,9 @@
-<h1 align="center">김호탁 | KIM HOTAK</h1>
+<a href="https://atcoder.jp/users/kimhotak">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkimhotak&style=for-the-badge" height="28"/>
+</a>
 
+<br> 
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,spring,cpp,git,github,docker&perline=8" />
-</p>
-
-
-## 🏆 BOJ & Solved.ac
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghxkr" />
-  <img src="http://mazandi.herokuapp.com/api?handle=rlaghxkr" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kimhotac&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhotac&layout=compact&langs_count=8&hide=Jupyter%20Notebook,ShaderLab,HLSL" />
-
-
-
-</p>
+<a href="https://solved.ac/profile/rlaghxkr">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghxkr" height="150" alt="Solved.ac Profile"/>
+</a>
